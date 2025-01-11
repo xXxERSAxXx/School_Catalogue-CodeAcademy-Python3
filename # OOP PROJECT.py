@@ -66,3 +66,4 @@ class HighSchool(School):
 c = HighSchool("Coliseo_highschool", 300, "Handball, Flag, Football")
 print(c.get_sportsTeams())
 print(c)
+# this is the final for this project if you have any recomendations for me or just to improve my line-code please let me know!
